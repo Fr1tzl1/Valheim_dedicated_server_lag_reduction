@@ -1,7 +1,7 @@
 # Valheim dedicated server lag reduction
 
 ## Description
-With this server modification, everything will load much faster
+With this server modification, everything will load much faster.
 On my server we had the problem, if you were away from a large base for a while or logged into the server, that it could take up to 30 seconds or more until you could open doors or box contents were displayed or until the terrain has loaded properly. With this server modification, the problem will be eliminated.
 This modification increases the data transfer rate from client to server and server to client 
 
